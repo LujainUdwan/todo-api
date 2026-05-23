@@ -1,0 +1,7 @@
+Todo REST API
+
+I built this project while learning backend development.
+It helped me understand how authentication and REST APIs work.
+
+A REST API for task management with JWT authentication, built with Node.js, Express, and MongoDB.
+Supports user registration, login, and full CRUD operations for tasks.
